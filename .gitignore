@@ -1,0 +1,10 @@
+# Временные файлы Roblox
+*.rbxl
+*.rbxlx
+*.lock
+
+# Настройки VS Code
+.vscode/
+
+# Файлы Rojo
+.rojo/
