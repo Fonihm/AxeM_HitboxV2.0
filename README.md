@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Roblox-Luau-2C2D72?style=for-the-badge&logo=roblox&logoColor=white" alt="Luau">
   <img src="https://img.shields.io/badge/Optimized%20for-Rojo-E05A47?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="Rojo">
-  <img src="https://img.shields.io/badge/Style-Unix%20Way-422C1A?style=for-the-badge" alt="Unix Way">
+  <img src="https://img.shields.io/badge/Style-Unix%20Way-422C1A?style=for-the-badge">
 </p>
 
 ---
