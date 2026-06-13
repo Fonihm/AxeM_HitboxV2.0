@@ -2,7 +2,7 @@
   <img src="https://github.com/Fonihm/Fonihm/blob/main/Senko.gif?raw=true" alt="AxeM Logo" width="25%">
 </p>
 
-<h1 align="center">AxeM_Hitbox v2.0 </p>
+<h1 align="center">AxeM_Hitbox v2.0 </h1>
 
 <p align="center">
   <strong>AxeM_Hitbox</strong> is a high-precision modular hitbox system for Roblox. It is designed for developers who prioritize performance, clean code, and flexible hit registration.
